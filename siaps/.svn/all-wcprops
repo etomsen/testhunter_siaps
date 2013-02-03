@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps
+END
+PluginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/PluginModule.java
+END
+BuildImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/BuildImpl.java
+END
+JobImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/JobImpl.java
+END
+IProjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/IProjectFactory.java
+END
+ProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/ProjectImpl.java
+END
+BuildVirtualUrlResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/BuildVirtualUrlResolver.java
+END
+IJobFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/IJobFactory.java
+END
+IBuildFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/IBuildFactory.java
+END
+PluginImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/PluginImpl.java
+END

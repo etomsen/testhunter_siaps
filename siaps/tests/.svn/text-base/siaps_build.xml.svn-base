@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<mavenModuleSetBuild>
+	<action>
+		<cause>
+			<shortDescription>Started by timer</shortDescription>
+		</cause>
+	</action>
+	<action></action>
+	<action></action>
+	<action></action>
+	<action>
+		<failCount>0</failCount>
+		<skipCount>0</skipCount>
+		<totalCount>138</totalCount>
+		<urlName>testReport</urlName>
+	</action>
+	<action></action>
+	<action></action>
+	<action></action>
+	<building>false</building>
+	<duration>281879</duration>
+	<fullDisplayName>SIAPS #380</fullDisplayName>
+	<id>2010-10-31_02-31-27</id>
+	<keepLog>false</keepLog>
+	<number>380</number>
+	<result>SUCCESS</result>
+	<timestamp>1288488687528</timestamp>
+	<url>http://10.7.20.119:8080/job/SIAPS/380/</url>
+	<builtOn></builtOn>
+	<changeSet>
+		<kind>svn</kind>
+		<revision>
+			<module>https://babbage.inf.unibz.it/case/casefa/Development/SIAPS_PLUS
+			</module>
+			<revision>308</revision>
+		</revision>
+	</changeSet>
+</mavenModuleSetBuild>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests
+END
+TestProjectXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/TestProjectXml.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/AllTests.java
+END
+siaps_project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/siaps_project.xml
+END
+TestBuildImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/TestBuildImpl.java
+END
+siaps_job.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/siaps_job.xml
+END
+TestJobImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/TestJobImpl.java
+END
+siaps_build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/siaps_build.xml
+END
+TestProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/case/case-internships/!svn/ver/2022/MSc/EvgenyBaranov/HudsonPlugin_SIAPS/trunk/src/it/unibz/testhunter/plugin/hudson/siaps/tests/TestProjectImpl.java
+END
